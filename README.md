@@ -1,4 +1,6 @@
 # bpf_lsm_demo
+kernel:5.10.13
+
 bpf lsm demo 例程
 
 说明：inode_mkdir
